@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Zayan-Coder
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning python,HTML,Arduino 
+- 📫 How to reach me
+- MAIL : zayanm794@gmail.com 
+
+<!---
+Zayan-Coder/Zayan-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
